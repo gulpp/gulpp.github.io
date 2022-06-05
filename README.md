@@ -1,5 +1,5 @@
 # G-Town Unusual Left Party Platform GULPP
-Website: https://gulpp.github.io/
+Website: [gulpp.github.io] (https://gulpp.github.io/)
 
 ## Contact
 Politics dot GULPP at Gmail dot com
