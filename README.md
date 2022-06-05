@@ -1,5 +1,8 @@
-# gulpp.github.io
-G-Town Unusual Left Party Platform
+# G-Town Unusual Left Party Platform
+Website: https://gulpp.github.io/
+
+## Contact
+Politics dot GULPP at Gmail dot com
 
 ## Tags
 Culture  
