@@ -1,4 +1,4 @@
-# G-Town Unusual Left Party Platform
+# G-Town Unusual Left Party Platform GULPP
 Website: https://gulpp.github.io/
 
 ## Contact
