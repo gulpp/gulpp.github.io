@@ -13,10 +13,14 @@ Politics dot GULPP at Gmail dot com
 
 ## Tags
 Culture  
+Energy  
+Environment  
 Law  
 Safety
 
 ## G-Town Unusual Left Party Platform GULPP
 1. [Law] End the filibuster. OK to keep the standing filibuster only.
 2. [Law] Establish term limits, esp. for federal judges incl. those who serve on the Supreme Court of the United States SCOTUS. Eliminate lifetime terms (life tenure).
-3. To be continued...
+- This is a test 1
+- This is a test 2
+4. To be continued...
