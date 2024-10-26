@@ -1,4 +1,4 @@
-# Politics GULPP: G-Town Unusual Left Party Platform
+# GULPP: G-Town Unusual Left Party Platform
 View at this web URL: [https://gulpp.github.io/](https://gulpp.github.io/)
 
 ## Notes
